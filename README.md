@@ -1,4 +1,4 @@
-# Serenn
+# Serafin
 A simple Discord bot for research purposes built with [serenity](https://github.com/serenity-rs/serenity) in Rust.
 
 ## Features & Bugs

@@ -796,6 +796,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "serafin"
+version = "0.1.0"
+dependencies = [
+ "dotenv",
+ "serenity",
+ "tokio",
+]
+
+[[package]]
 name = "serde"
 version = "1.0.135"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -863,15 +872,6 @@ dependencies = [
  "typemap_rev",
  "url",
  "uwl",
-]
-
-[[package]]
-name = "serenn"
-version = "0.1.0"
-dependencies = [
- "dotenv",
- "serenity",
- "tokio",
 ]
 
 [[package]]
