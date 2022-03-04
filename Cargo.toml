@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 serenity = "0.10"
 dotenv = "0.15.0"
+tokio = { version = "1.15.0", features = ["rt", "rt-multi-thread", "macros"] }
